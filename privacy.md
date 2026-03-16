@@ -19,7 +19,7 @@ By using Tweaky, you agree to the collection and use of information in accordanc
 
 - **What we collect:** Photos you choose to enhance using Tweaky
 - **How we use it:** Photos are sent to our secure servers for AI enhancement processing
-- **Storage:** Photos are cached temporarily for performance and **automatically deleted** from our servers within 7 days
+- **Storage:** Photos are cached temporarily for performance and **automatically deleted** from our servers within 30 days
 - **We do NOT:** Store your photos permanently, share your photos with third parties, or use your photos for any purpose other than enhancement
 
 ### 2. Device Information
@@ -73,7 +73,7 @@ We explicitly **do not** collect:
 - Photos are processed on secure Google Cloud Platform servers
 - Processing typically completes within seconds
 - Processed images are transmitted back to your device
-- Original and processed images are deleted from servers within 7 days
+- Original and processed images are deleted from servers within 30 days
 
 ---
 
@@ -81,8 +81,8 @@ We explicitly **do not** collect:
 
 | Data Type | Retention Period |
 |-----------|------------------|
-| Uploaded photos | Cached up to 7 days, then automatically deleted |
-| Processed images | Cached up to 7 days, then automatically deleted |
+| Uploaded photos | Cached up to 30 days, then automatically deleted |
+| Processed images | Cached up to 30 days, then automatically deleted |
 | Device identifier | Until you delete the app and clear Keychain |
 | Usage statistics | 12 months rolling |
 | Subscription status | Managed by Apple |
@@ -156,7 +156,7 @@ If you have questions about this Privacy Policy or our privacy practices, please
 
 | Aspect | Our Practice |
 |--------|--------------|
-| Photos | Processed & deleted within 7 days |
+| Photos | Processed & deleted within 30 days |
 | Personal data | None collected |
 | Payment info | Handled by Apple |
 | Tracking | None |
